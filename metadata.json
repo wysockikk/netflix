@@ -1,0 +1,6 @@
+{
+  "name": "CineSub AI - Generator Napisów i Dubbingu",
+  "description": "Generator zsynchronizowanych napisów i tłumaczeń dubbingu z filmów na podstawie linków IMDb / Rotten Tomatoes z podglądem na żywo i eksportem SRT/VTT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
